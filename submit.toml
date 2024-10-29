@@ -1,0 +1,15 @@
+# Recommended VS Code extension:
+# https://marketplace.visualstudio.com/items?itemName=tamasfe.even-better-toml
+
+[part-1]
+task-1 = 0x0000000000000000
+task-2 = 0x0000000000000000
+task-3 = 0x0000000000000000
+
+[part-2]
+task-4 = 0x00
+task-5 = 0
+
+[part-3]
+task-6 = 0x0000000000000000
+task-7 = [0x00, 0x00, 0x00, 0x00, 0x00, 0x00, 0x00, 0x00]
